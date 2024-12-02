@@ -1,3 +1,3 @@
-- ISCOM-Shanshu Practice-Driven Research Competition,2023. (Team leader)
+- ISCOM-Shanshu Practice-Driven Research Competition,2023. (*Team leader*)
 - Third prize in the 21th “Huawei” Cup National Post-Graduate Mathematic Contest in Modeling, 2024.
 - First-Class Academic Scholarship at Wuhan University, 2024.

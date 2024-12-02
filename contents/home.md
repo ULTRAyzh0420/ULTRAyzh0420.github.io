@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ULTRAyzh0420)
+[![ULTRAyzh0420](https://img.shields.io/badge/ULTRAyzh0420-github-blue?logo=github)](https://github.com/ULTRAyzh0420)
 
 Hello, Welcome to Zhihang's Home!/
 He is currently pursuing a Master's Degree in Management Science and Engineering, at School of Economics and Management,  Wuhan University, China.
