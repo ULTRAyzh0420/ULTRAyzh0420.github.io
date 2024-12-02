@@ -2,7 +2,8 @@
 
 [![ULTRAyzh0420](https://img.shields.io/badge/ULTRAyzh0420-github-blue?logo=github)](https://github.com/ULTRAyzh0420)
 
-Hello, Welcome to Zhihang's Home!/
+Hello, Welcome to Zhihang's Home!
+
 He is currently pursuing a Master's Degree in Management Science and Engineering, at School of Economics and Management,  Wuhan University, China.
 His research focuses on data-driven operations management, robust optimization, and non-profit operations management. Currently, He is applying for a PhD position starting in Fall 2025. 
 
